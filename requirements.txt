@@ -1,0 +1,4 @@
+pinecone
+sentence-transformers
+pymupdf
+python-dotenv
